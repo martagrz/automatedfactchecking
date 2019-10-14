@@ -1,0 +1,9 @@
+numpy
+nltk
+matplotlib
+tensorflow
+scikit-optimize
+tqdm
+keras
+h5py
+pydot
